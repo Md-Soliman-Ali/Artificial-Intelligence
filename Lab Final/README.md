@@ -40,9 +40,9 @@ Write a python program to implement Water Jug Problem?
 
 * 8
  
-(a) Write a python program to remove punctuations from the given string?
+(a). Write a python program to remove punctuations from the given string?
 
-(b) Write a python program to sort the sentence in alphabetical order?
+(b). Write a python program to sort the sentence in alphabetical order?
 
 * 9
 
